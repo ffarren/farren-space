@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/farren-space/static/css/main.37fe01b0.css",
+    "main.js": "/farren-space/static/js/main.de96052b.js",
+    "static/js/787.c16b904b.chunk.js": "/farren-space/static/js/787.c16b904b.chunk.js",
+    "index.html": "/farren-space/index.html",
+    "main.37fe01b0.css.map": "/farren-space/static/css/main.37fe01b0.css.map",
+    "main.de96052b.js.map": "/farren-space/static/js/main.de96052b.js.map",
+    "787.c16b904b.chunk.js.map": "/farren-space/static/js/787.c16b904b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37fe01b0.css",
+    "static/js/main.de96052b.js"
+  ]
+}
